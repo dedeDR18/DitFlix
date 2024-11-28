@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DitFlix</string>
+    <string name="loading">Loading…</string>
+    <string name="error">error: %1$s</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="ditflix">DITFLIX</string>
+    <string name="searching">Searching...</string>
+</resources>
